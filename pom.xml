@@ -23,5 +23,10 @@
     		<version>7.0</version>
     		<scope>provided</scope>
     	</dependency>
+    	<dependency>
+    		<groupId>snippets.maven</groupId>
+    		<artifactId>CourseManagementMavenEJBClient</artifactId>
+    		<version>1</version>
+    	</dependency>
     </dependencies>
 </project>
